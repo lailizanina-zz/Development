@@ -26,9 +26,10 @@ a:hover {
 
 html,
 body {
-  height: 100%;
-  background-color: #fff;
+  height: 10%;
+  background-color: #474747;
 }
+
 body {
   color: #fff;
   text-align: center;
@@ -87,12 +88,6 @@ body {
   background-color: transparent;
   border-bottom-color: #a9a9a9;
   border-bottom-color: rgba(255,255,255,.25);
-}
-.masthead-nav > .active > a,
-.masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
 }
 
 @media (min-width: 768px) {
